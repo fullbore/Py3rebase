@@ -1,6 +1,7 @@
-# Pyrebase
+# Py3rebase
 
-A simple python wrapper for the [Firebase API](https://firebase.google.com).
+A simple python wrapper for the [Firebase API](https://firebase.google.com) forked from
+[thisbejim/Pyrebase](https://github.com/thisbejim/Pyrebase) so I could use it with latest greatest Python and Django
 
 ## Support
 
